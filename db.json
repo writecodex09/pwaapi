@@ -1,0 +1,24 @@
+{
+"products" : [
+{"id":1,"name":"Bat, asian false vampire","category":"Maroon"},
+{"id":2,"name":"Sandpiper, spotted wood","category":"Crimson"},
+{"id":3,"name":"Long-necked turtle","category":"Blue"},
+{"id":4,"name":"Drongo, fork-tailed","category":"Teal"},
+{"id":5,"name":"Brush-tailed rat kangaroo","category":"Mauv"},
+{"id":6,"name":"Northern fur seal","category":"Teal"},
+{"id":7,"name":"American beaver","category":"Teal"},
+{"id":8,"name":"Asian water dragon","category":"Indigo"},
+{"id":9,"name":"Greater rhea","category":"Indigo"},
+{"id":10,"name":"Dama wallaby","category":"Crimson"},
+{"id":11,"name":"Least chipmunk","category":"Fuscia"},
+{"id":12,"name":"Horned puffin","category":"Khaki"},
+{"id":13,"name":"Red-cheeked cordon bleu","category":"Yellow"},
+{"id":14,"name":"Mexican beaded lizard","category":"Goldenrod"},
+{"id":15,"name":"Bird (unidentified)","category":"Aquamarine"},
+{"id":16,"name":"Rhea, common","category":"Crimson"},
+{"id":17,"name":"Wallaby, dama","category":"Pink"},
+{"id":18,"name":"Wildebeest, blue","category":"Mauv"},
+{"id":19,"name":"Fox, silver-backed","category":"Fuscia"},
+{"id":20,"name":"Heron, green-backed","category":"Maroon"}]
+]
+}
