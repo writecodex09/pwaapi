@@ -1,5 +1,5 @@
 {
-"products" : [
+"products": [
 {"id":1,"name":"Bat, asian false vampire","category":"Maroon"},
 {"id":2,"name":"Sandpiper, spotted wood","category":"Crimson"},
 {"id":3,"name":"Long-necked turtle","category":"Blue"},
@@ -19,5 +19,6 @@
 {"id":17,"name":"Wallaby, dama","category":"Pink"},
 {"id":18,"name":"Wildebeest, blue","category":"Mauv"},
 {"id":19,"name":"Fox, silver-backed","category":"Fuscia"},
-{"id":20,"name":"Heron, green-backed","category":"Maroon"}]
+{"id":20,"name":"Heron, green-backed","category":"Maroon"}
+]
 }
